@@ -113,10 +113,10 @@ Our roadmap is divided into three key phases, with the presale scheduled for a r
 
 ## **7. Team & Advisors**
 
-* **[Team Member 1]** - Role & Experience
-* **[Team Member 2]** - Role & Experience
-* **[Team Member 3]** - Role & Experience
-* **[Advisor 1]** - Role & Experience
+* **[Team Member 1]** - ceo 
+* **[Team Member 2]** - ceo/team
+* **[Team Member 3]** - team 
+* **[Advisor 1]** - ceo 
 
 ---
 
