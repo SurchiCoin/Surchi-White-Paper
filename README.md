@@ -55,9 +55,9 @@ The $SURCHI token is the native utility and governance token of the Surchi ecosy
 
 * **Total Supply:** 1,000,000,000 $SURCHI
 * **Token Allocation:**
-    * **Presale:** 60% (600,000,000 $SURCHI)
+    * **Presale:**48% (480,000,000 $SURCHI)
     * **Liquidity:** 30% (300,000,000 $SURCHI)
-    * **Community Reserve:** 10% (100,000,000 $SURCHI)
+    * **Community Reserve:** 22% (220,000,000 $SURCHI)
 
 ### **Liquidity Lock**
 
