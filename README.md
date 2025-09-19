@@ -53,11 +53,11 @@ We chose X Layer for its unique combination of **scalability, low transaction fe
 
 The $SURCHI token is the native utility and governance token of the Surchi ecosystem.
 
-* **Total Supply:** 1,000,000,000 $SURCHI
+* **Total Supply:** 120,000,000 $SURCHI
 * **Token Allocation:**
-    * **Presale:** 48% (480,000,000 $SURCHI)
-    * **Liquidity:** 30% (300,000,000 $SURCHI)
-    * **Community Reserve:** 22% (220,000,000 $SURCHI)
+    * **Presale:** 62.5% (75,000,000 $SURCHI)
+    * **Liquidity:** 20.83% (25,000,000 $SURCHI)
+    * **Community Reserve:** 16.67% (20,000,000 $SURCHI)
 
 #### Liquidity Lock
 
