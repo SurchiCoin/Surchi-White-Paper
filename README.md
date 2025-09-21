@@ -61,7 +61,7 @@ The $SURCHI token is the native utility and governance token of the Surchi ecosy
 
 #### Liquidity Lock
 
-The 30% of the total token supply allocated for liquidity will be **locked for a period of 24 months** upon listing. This commitment is a cornerstone of our security and trust model. The liquidity will be securely held in a time-locked smart contract, verifiable by the public. This measure provides a guarantee to our community and investors, safeguarding against the risk of a "rug pull" and demonstrating our long-term dedication to the project's success.
+The 100% of the total token supply allocated for liquidity will be **locked for a period of 24 months** upon listing. This commitment is a cornerstone of our security and trust model. The liquidity will be securely held in a time-locked smart contract, verifiable by the public. This measure provides a guarantee to our community and investors, safeguarding against the risk of a "rug pull" and demonstrating our long-term dedication to the project's success.
 
 #### Utility
 
